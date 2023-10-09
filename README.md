@@ -1,10 +1,10 @@
-# We made it! 
+*#We made it! 
 
 *Update (Jan 2020)*. 
 Python 2 is now officially retired. Thanks to everyone for making this hard transition to better code happen!
 
-# Migrating to Python 3 with pleasure
-## A short guide on features of Python 3 for data scientists
+! Migrating to Python 3 with pleasure
+*# A short guide on features of Python 3 for data scientists
 
 
 Python became a mainstream language for machine learning and other scientific fields that heavily operate with data;
@@ -711,3 +711,4 @@ Following migrations are promised to be smoother: ["we will never do this kind o
 ### License
 
 This text was published by [Alex Rogozhnikov](https://arogozhnikov.github.io/about/) and [contributors](https://github.com/arogozhnikov/python3_with_pleasure/graphs/contributors) under [CC BY-SA 3.0 License](https://creativecommons.org/licenses/by-sa/3.0/) (excluding images).
+ 
